@@ -1,0 +1,28 @@
+#btn-top{
+    background: purple;
+    width: 80px;
+    height: 30px;
+    font-size: small;
+    position: relative;
+    left: 200px;
+}
+#btn-top:hover{
+    background: purple;
+}
+#second-btn{
+    border-radius: 25%;
+    width: 60px;
+    height: 30px;
+    background-color: green;
+    font-size: small;
+
+}
+#heart{
+    position: relative;
+    top: 20px;
+    left: 115px;
+}
+
+.card{
+    height: 570px;
+}
