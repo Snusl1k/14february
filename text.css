@@ -1,3 +1,6 @@
 .container{
-    background-image: ;
+    width: 1500px;
+    height: 1000px;
+    background-image: url(hearts.jpg);
+    font-family: 'Montserrat', sans-serif;
 }
